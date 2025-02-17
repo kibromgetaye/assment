@@ -1,12 +1,9 @@
-import "./App.css";
 import EthiopiaExplorer from "./components/ethiopia-explorer";
 
-function App() {
+export default function Home() {
   return (
-    <div className="App">
+    <main className="min-h-screen bg-gray-50">
       <EthiopiaExplorer />
-    </div>
+    </main>
   );
 }
-
-export default App;

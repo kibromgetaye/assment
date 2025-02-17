@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Ancient History of Ethiopia",
+      "body": "Ethiopia is one of the oldest independent countries in Africa, with a history dating back to ancient times. The Kingdom of Aksum was one of the great civilizations of the ancient world, known for its unique architecture and powerful trading empire."
+    },
+    {
+      "id": 2,
+      "title": "Ethiopian Coffee Culture",
+      "body": "Ethiopia is the birthplace of coffee, discovered in the Kaffa region. The Ethiopian coffee ceremony is a unique cultural ritual that can last for hours, involving the roasting, grinding, and brewing of coffee beans."
+    },
+    {
+      "id": 3,
+      "title": "Diverse Landscapes",
+      "body": "Ethiopia features incredibly diverse landscapes, from the Simien Mountains and Danakil Depression to the Great Rift Valley. The country hosts both the highest and lowest points in Africa."
+    },
+    {
+      "id": 4,
+      "title": "Rich Cultural Heritage",
+      "body": "Home to over 80 different ethnic groups, Ethiopia boasts a rich tapestry of cultures, languages, and traditions. Each group contributes its own unique customs, music, and art to the nation's cultural heritage."
+    },
+    {
+      "id": 5,
+      "title": "Ethiopian Cuisine",
+      "body": "Ethiopian cuisine is known for its unique flavors and communal dining style. Injera, a sourdough flatbread, serves as both plate and utensil. The cuisine features diverse spices and vegetarian-friendly options."
+    },
+    {
+      "id": 6,
+      "title": "Religious History",
+      "body": "Ethiopia has a deep religious history, being one of the earliest Christian nations. The rock-hewn churches of Lalibela are testament to this heritage. The country also hosts significant Muslim and Jewish populations."
+    },
+    {
+      "id": 7,
+      "title": "Unique Calendar",
+      "body": "Ethiopia follows its own calendar system, which is approximately seven years and eight months behind the Gregorian calendar. The country also uses a unique time-counting system."
+    },
+    {
+      "id": 8,
+      "title": "Olympic Success",
+      "body": "Ethiopian athletes have achieved remarkable success in long-distance running, winning numerous Olympic medals. The high-altitude training environment contributes to their exceptional performance."
+    },
+    {
+      "id": 9,
+      "title": "Biodiversity",
+      "body": "Ethiopia is home to numerous endemic species, including the Ethiopian wolf and the Gelada baboon. The country's varied ecosystems support a wide range of unique flora and fauna."
+    },
+    {
+      "id": 10,
+      "title": "Modern Development",
+      "body": "Ethiopia has one of Africa's fastest-growing economies, with significant investments in infrastructure, including the Grand Ethiopian Renaissance Dam, which will be Africa's largest hydroelectric power plant."
+    },
+    {
+      "id": 11,
+      "title": "Traditional Arts",
+      "body": "Ethiopian traditional arts include intricate cross designs, colorful textiles, and distinctive musical instruments like the begena and krar. These arts reflect the country's rich cultural heritage."
+    },
+    {
+      "id": 12,
+      "title": "Ancient Writing System",
+      "body": "Ethiopia has its own ancient writing system, Ge'ez script, which is still used in Ethiopian Orthodox Church services. Modern Amharic uses a writing system derived from Ge'ez."
+    }
+  ]
+}
